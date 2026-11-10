@@ -1,0 +1,2 @@
+# .github
+life is infinity
